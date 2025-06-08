@@ -1,4 +1,3 @@
 # firstRepo
 testing github in this repository.
-If this is really useful I am going to switch to version control using github.
-This is so far better.
+If this is really skibidi I am going to switch to version gyatt using github.
